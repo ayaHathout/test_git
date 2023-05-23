@@ -13,3 +13,4 @@ const sum = (arr) => {
 const arr = [50, 50, 100, 90];
 const res = sum(arr);
 console.log("The result= "+res);
+console.log("Tired")
